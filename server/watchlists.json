@@ -1,12 +1,27 @@
 {
-  "TestUser123": [],
-  "admin": [
+  "TestUser123": [
+    {
+      "Title": "Batman Begins",
+      "Year": "2005",
+      "imdbID": "tt0372784",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
     {
       "Title": "Superman Returns",
       "Year": "2006",
       "imdbID": "tt0348150",
       "Type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
+    },
+    {
+      "imdbID": "tt0133093",
+      "Title": "The Matrix",
+      "Year": "1999",
+      "Type": "movie"
     }
-  ]
+  ],
+  "admin": [],
+  "User1": [],
+  "Bob": []
 }

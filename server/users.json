@@ -6,5 +6,13 @@
   {
     "username": "admin",
     "passwordHash": "$2b$10$1lGaWDmauEcFAubbNGfY5.DVne5/2hNCMUt6U9o/qPcRbxnR.trSC"
+  },
+  {
+    "username": "User1",
+    "passwordHash": "$2b$10$SJg8TKWuwvDhdLjEzEBl9uOdYji3r7o12LgDig0q20kdUaO3kF03G"
+  },
+  {
+    "username": "Bob",
+    "passwordHash": "$2b$10$Q6PthHId0blb09nt0ClzIuCXiu4qOZtbsWAKbKBeTGlOKHHbuX5O6"
   }
 ]
